@@ -8,3 +8,4 @@ The instructor's name is Scott Dossey
 
 * Test student 1
 * Vyvian Tran
+* Dom Pachuilo
